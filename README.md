@@ -106,14 +106,30 @@ The dashboard demonstrates how business intelligence tools can support retail de
 
 
 
-📁 Repository Contents
+📂 Project Structure
 
-File| Description
-"Retail_Business_Intelligence_Analysis.pbix"| Interactive Power BI dashboard
-"Retail_Business_Intelligence_Overview.png"| Overview dashboard screenshot
-"Retail_Business_Intelligence_Analysis.png"| Performance analysis screenshot
-"Customers_and_Returns_Analysis.png"| Customer and returns dashboard screenshot
-"README.md"| Project documentation
+Retail_Business_Intelligence_Analysis
+
+│
+├── Retail_Business_Intelligence_Analysis.pbix
+│   
+│
+├── Retail_Business_Intelligence_Documentation.pdf
+│   
+│
+├── Retail_Business_Intelligence_Presentation.pdf
+│   
+│
+├── Dashboard_1.PNG
+│   
+│
+├── Dashboard_2.PNG
+│   
+│
+├── Dashboard_3.PNG
+│   
+│
+└── README.md
 
 👩‍💻 Author
 
