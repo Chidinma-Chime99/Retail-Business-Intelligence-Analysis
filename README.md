@@ -8,15 +8,15 @@ The Business Intelligence Analysis is an interactive business intelligence proje
 
 Retail Performance Overview
 
-"Retail Performance Overview" (Dashboard_1.PNG)
+![Retail_Performamce_Overview](Dashboard_1.PNG)
 
 Performance Analysis
 
-"Performance Analysis" (Dashboard_2.PNG)
+![Performamce_Analysis](Dashboard_2.PNG)
 
 Customers and Returns Analysis
 
-"Customers and Returns Analysis" (Dashboard_3.PNG)
+![Customer_and_Returns_Analysis](Dashboard_3.PNG)
 
 🎯 Project Objectives
 
@@ -119,7 +119,7 @@ File| Description
 
 Chidinma Chime
 
-Data Analyst | Economics Graduate
+Data Analyst | Economist
 
 Interested in transforming data into meaningful insights that support informed business decisions.
 
