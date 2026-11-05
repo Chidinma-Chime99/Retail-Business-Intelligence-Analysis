@@ -2,9 +2,21 @@
 
 Project Overview
 
-The Retail Performance Analysis Dashboard is an interactive business intelligence project developed using Microsoft Power BI to evaluate retail operations and uncover insights into sales performance, profitability, customer behaviour, product categories, regional performance, and product returns.
+The Business Intelligence Analysis is an interactive business intelligence project developed using Microsoft Power BI to evaluate retail operations and uncover insights into sales performance, profitability, customer behaviour, product categories, regional performance, and product returns. The project transforms retail transactional data into meaningful visual insights, enabling stakeholders to monitor key performance indicators, identify business trends, evaluate profitability, and make informed, data-driven decisions.
 
-The project transforms retail transactional data into meaningful visual insights, enabling stakeholders to monitor key performance indicators, identify business trends, evaluate profitability, and make informed, data-driven decisions.
+📷 Dashboard Preview
+
+Retail Performance Overview
+
+"Retail Performance Overview" (Dashboard_1.png)
+
+Performance Analysis
+
+"Performance Analysis" (Dashboard_2.png)
+
+Customers and Returns Analysis
+
+"Customers and Returns Analysis" (Dashboard_3.png)
 
 🎯 Project Objectives
 
@@ -92,19 +104,7 @@ The dashboard demonstrates how business intelligence tools can support retail de
 - Monitoring product returns and identifying areas requiring attention.
 - Supporting performance monitoring through interactive visualisations.
 
-📷 Dashboard Preview
 
-Retail Performance Overview
-
-"Retail Performance Overview" (Retail_Performance_Overview.png)
-
-Performance Analysis
-
-"Performance Analysis" (Retail_Performance_Analysis.png)
-
-Customers and Returns Analysis
-
-"Customers and Returns Analysis" (Customers_and_Returns_Analysis.png)
 
 📁 Repository Contents
 
