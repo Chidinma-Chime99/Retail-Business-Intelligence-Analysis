@@ -8,15 +8,15 @@ The Business Intelligence Analysis is an interactive business intelligence proje
 
 Retail Performance Overview
 
-"Retail Performance Overview" (Dashboard_1.png)
+"Retail Performance Overview" (Dashboard_1.PNG)
 
 Performance Analysis
 
-"Performance Analysis" (Dashboard_2.png)
+"Performance Analysis" (Dashboard_2.PNG)
 
 Customers and Returns Analysis
 
-"Customers and Returns Analysis" (Dashboard_3.png)
+"Customers and Returns Analysis" (Dashboard_3.PNG)
 
 🎯 Project Objectives
 
